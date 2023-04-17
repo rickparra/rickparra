@@ -1,15 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Henrique+Parra+;I'm+17+Years+Old;I+'m+Fullstack+Developer;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Henrique Parra Benitez and my nickname is "Parra"!
-## Here are my professional social media profiles:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-parra-benitez/)
-[![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rickparra)
-#
-![Parra GitHub stats](https://github-readme-stats.vercel.app/api?username=rickparra&show_icons=true&theme=dracula)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickparra&layout=compact&langs_count=7&theme=dracula">
-
+<br><br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 #
 
 ## Technologies I use in my projects.
@@ -24,6 +18,37 @@
 
 #
 
+<br>
+
+##
+
+## My Contacts:
+ 
+<div>
+  <a href = "mailto:hpbenitez7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-parra-benitez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
+<div>
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rickparra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ 
+  <img  height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickparra&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+</div>
+
+
+
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rickparra&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
+
+# 
+
 # I am passionate about technology and innovation, and I want to change the world with my knowledge.
 
 ## My current project:
@@ -34,4 +59,3 @@ Feel free to check the progress of the project:
 - [Challange MobilizAi](https://github.com/rickparra/Challange-MobilizAi)
 
 #
-
