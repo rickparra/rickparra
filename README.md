@@ -4,7 +4,6 @@
 
 <br><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-#
 
 ## Technologies I use in my projects:
 <div style="display: inline_block"><br>
@@ -19,8 +18,6 @@
 #
 
 <br>
-
-##
 
 ## My Contacts:
  
