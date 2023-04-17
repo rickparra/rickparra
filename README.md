@@ -1,6 +1,5 @@
 
-![Snake animation](https://github.com/rickparra/rickparra/blob/output/github-contribution-grid-snake.svg)
-#
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Henrique Parra Benitez and my nickname is "Parra"!
 ## Here are my professional social media profiles:
