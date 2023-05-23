@@ -42,7 +42,6 @@
 
 <br>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rickparra&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
 
