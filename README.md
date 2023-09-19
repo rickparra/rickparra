@@ -53,6 +53,6 @@
 
 Feel free to check the progress of the project:
 
-- [Challange MobilizAi](https://rickparra.github.io/Challange-MobilizAi/src/index.html)
+- [UrbanShield](https://challange-rotas.vercel.app/)
 
 #
