@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Henrique+Parra+;Currently+studying+Software+Engineering.;I+'m+Data+Scientist+Intern;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Henrique+Parra+;Atualmente+estudando+Engenharia+de+Software.;Sou+Estagiário+em+Ciência+de+Dados;Sinta-se+bem-vindo+a+navegar+aqui!)](https://git.io/typing-svg)
 
 <br><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-## Technologies I use in my projects:
+## Tecnologias que uso em meus projetos:
 <div style="display: inline_block"><br>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,7 +20,7 @@
 
 <br>
 
-## My Contacts:
+## Meus Contatos:
  
 <div>
   <a href = "mailto:hpbenitez7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -46,13 +46,33 @@
 
 # 
 
-# I am passionate about technology and innovation, and I want to change the world with my knowledge.
+# Sou apaixonado por tecnologia e inovação, e quero mudar o mundo com o meu conhecimento.
 
-## My current project:
-### I am involved in an academic project in partnership with IBM, with the theme "Smart Cities". My project aims to improve communication between citizens, government, and other companies to optimize the implementation of intelligent and sustainable practices in cities. This is a unique opportunity to contribute to effective solutions in such a relevant and urgent topic for the future of cities and their inhabitants.
+## Meu projeto atual:
+### Estou envolvido em um projeto acadêmico em parceria com a IBM, com o tema "Smart Cities". ## Urbanshield - Melhorando a Segurança Pública em Nossas Cidades
 
-Feel free to check the progress of the project:
+O Urbanshield é um projeto inovador dedicado a melhorar a segurança pública em nossas cidades, oferecendo soluções práticas e em tempo real. Este projeto surge como uma evolução do meu trabalho anterior, que se concentrava em melhorar a comunicação entre cidadãos, governo e empresas para otimizar práticas inteligentes e sustentáveis nas cidades. Agora, o Urbanshield vai além, focando especificamente em questões de segurança e bem-estar da comunidade.
 
-- [UrbanShield](https://challange-rotas.vercel.app/)
+### O Objetivo
+
+O objetivo principal do Urbanshield é criar rotas seguras e acessíveis para os moradores e visitantes das áreas urbanas. Isso é alcançado por meio da coleta contínua de dados em tempo real das ruas, utilizando totens estrategicamente posicionados em locais-chave da cidade. Esses totens fornecem informações cruciais sobre a segurança das rotas, permitindo que os usuários tomem decisões informadas sobre seus deslocamentos diários.
+
+### Denúncias de Crimes e Problemas de Segurança
+
+Além de fornecer rotas seguras, o Urbanshield oferece uma maneira fácil e eficaz para os cidadãos relatarem crimes, incidentes, ou qualquer outra preocupação relacionada à segurança pública. Através do aplicativo Urbanshield, os usuários podem enviar denúncias diretamente para as autoridades competentes, contribuindo assim para a resposta rápida e eficaz a problemas de segurança.
+
+### Privacidade e Segurança de Dados
+
+A segurança e privacidade dos dados são preocupações fundamentais no Urbanshield. Estamos comprometidos em garantir que as informações coletadas pelos totens e denúncias de usuários sejam protegidas e usadas de forma responsável. Implementamos rigorosas políticas de privacidade e medidas de segurança para garantir a confidencialidade e integridade dos dados.
+
+### Junte-se a Nós
+
+O Urbanshield apresenta uma oportunidade única para fazer parte de um esforço dedicado a tornar nossas cidades mais seguras e acessíveis para todos. Convidamos você a se envolver neste projeto, compartilhar suas ideias e contribuir com sua experiência para o benefício de nossa comunidade urbana.
+
+Se você estiver interessado em colaborar, contribuir com código ou apenas deseja saber mais sobre o Urbanshield, não hesite em entrar em contato. Juntos, podemos fazer a diferença na segurança pública de nossas cidades.
+
+Sinta-se à vontade para verificar o progresso do projeto:
+
+- [UrbanShield]([https://challange-rotas.vercel.app/](https://github.com/rickparra/challange-rotas)https://github.com/rickparra/challange-rotas)
 
 #
