@@ -57,6 +57,4 @@ O Urbanshield é um projeto inovador dedicado a melhorar a segurança pública e
 
 Sinta-se à vontade para verificar o progresso do projeto:
 
-- [UrbanShield]([(https://github.com/rickparra/challange-rotas)https://github.com/rickparra/challange-rotas)
-]
-#
+- [UrbanShield](https://github.com/rickparra/challange-rotas)
