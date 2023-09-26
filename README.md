@@ -50,7 +50,8 @@
 
 ## Meu projeto atual:
 
-### Estou envolvido em um projeto acadêmico em parceria com a IBM, com o tema "Smart Cities". ## Urbanshield - Melhorando a Segurança Pública em Nossas Cidades
+### Estou envolvido em um projeto acadêmico em parceria com a IBM, com o tema "Smart Cities". 
+### Urbanshield - Melhorando a Segurança Pública em Nossas Cidades
 
 O Urbanshield é um projeto inovador dedicado a melhorar a segurança pública em nossas cidades, oferecendo soluções práticas e em tempo real. Este projeto surge como uma evolução do meu trabalho anterior, que se concentrava em melhorar a comunicação entre cidadãos, governo e empresas para otimizar práticas inteligentes e sustentáveis nas cidades. Agora, o Urbanshield vai além, focando especificamente em questões de segurança e bem-estar da comunidade.
 
