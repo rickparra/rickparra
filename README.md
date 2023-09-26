@@ -53,24 +53,6 @@
 
 O Urbanshield é um projeto inovador dedicado a melhorar a segurança pública em nossas cidades, oferecendo soluções práticas e em tempo real. Este projeto surge como uma evolução do meu trabalho anterior, que se concentrava em melhorar a comunicação entre cidadãos, governo e empresas para otimizar práticas inteligentes e sustentáveis nas cidades. Agora, o Urbanshield vai além, focando especificamente em questões de segurança e bem-estar da comunidade.
 
-### O Objetivo
-
-O objetivo principal do Urbanshield é criar rotas seguras e acessíveis para os moradores e visitantes das áreas urbanas. Isso é alcançado por meio da coleta contínua de dados em tempo real das ruas, utilizando totens estrategicamente posicionados em locais-chave da cidade. Esses totens fornecem informações cruciais sobre a segurança das rotas, permitindo que os usuários tomem decisões informadas sobre seus deslocamentos diários.
-
-### Denúncias de Crimes e Problemas de Segurança
-
-Além de fornecer rotas seguras, o Urbanshield oferece uma maneira fácil e eficaz para os cidadãos relatarem crimes, incidentes, ou qualquer outra preocupação relacionada à segurança pública. Através do aplicativo Urbanshield, os usuários podem enviar denúncias diretamente para as autoridades competentes, contribuindo assim para a resposta rápida e eficaz a problemas de segurança.
-
-### Privacidade e Segurança de Dados
-
-A segurança e privacidade dos dados são preocupações fundamentais no Urbanshield. Estamos comprometidos em garantir que as informações coletadas pelos totens e denúncias de usuários sejam protegidas e usadas de forma responsável. Implementamos rigorosas políticas de privacidade e medidas de segurança para garantir a confidencialidade e integridade dos dados.
-
-### Junte-se a Nós
-
-O Urbanshield apresenta uma oportunidade única para fazer parte de um esforço dedicado a tornar nossas cidades mais seguras e acessíveis para todos. Convidamos você a se envolver neste projeto, compartilhar suas ideias e contribuir com sua experiência para o benefício de nossa comunidade urbana.
-
-Se você estiver interessado em colaborar, contribuir com código ou apenas deseja saber mais sobre o Urbanshield, não hesite em entrar em contato. Juntos, podemos fazer a diferença na segurança pública de nossas cidades.
-
 Sinta-se à vontade para verificar o progresso do projeto:
 
 - [UrbanShield]([https://challange-rotas.vercel.app/](https://github.com/rickparra/challange-rotas)https://github.com/rickparra/challange-rotas)
