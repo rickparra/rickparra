@@ -13,7 +13,7 @@
         i'm in my sixth semester of software engineering — a curious mind always trying to understand how the world works
         <br><br>
         <strong>langs && frameworks:</strong><br>
-        &gt; typescript, python, java, react
+        &gt; typescript, python, java, react, fastAPI
         <br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickparra&layout=compact&theme=codeSTACKr" alt="Top Languages">
       </samp>
