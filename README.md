@@ -10,7 +10,7 @@
         <strong>about me:</strong><br>
         competitive programming entushiast ➧ 20y ➧ he/him
         <br><br>
-        i'm in my sixth semester of software engineering — a curious mind always trying to understand how the world works
+        i'm in my seventh semester of software engineering — a curious mind always trying to understand how the world works
         <br><br>
         <strong>langs && frameworks:</strong><br>
         &gt; typescript, python, java, react, fastAPI
